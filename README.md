@@ -1,6 +1,5 @@
 # Diabetes-Risk-Classification
  
-# Diabetes Risk Classification using Decision Tree
 
 # Project Overview
 
@@ -32,7 +31,7 @@ Target variable:
 
 * `0` - Non-diabetic
 * `1` - pre-diabetic
-* '2' - Diabetic
+* `2` - Diabetic
 
 # Methodology
 
@@ -87,7 +86,7 @@ The confusion matrix provided insight into prediction errors, which is especiall
 * Feature importance analysis provides actionable insights.
 
 
-# Technologies Used:* Python,* NumPy,* Matplotlib,* scikit-learn
+# Technologies Used:Python,NumPy,Matplotlib,scikit-learn
 
 # Conclusion
 
