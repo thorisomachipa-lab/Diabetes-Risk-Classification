@@ -94,5 +94,3 @@ The confusion matrix provided insight into prediction errors, which is especiall
 This project demonstrates the practical application of supervised machine learning in healthcare. By carefully controlling model complexity and focusing on interpretability, the Decision Tree model provided meaningful insights into diabetes risk factors while maintaining strong predictive performance.
 
 
-
-You’re building a strong portfolio now 💪
